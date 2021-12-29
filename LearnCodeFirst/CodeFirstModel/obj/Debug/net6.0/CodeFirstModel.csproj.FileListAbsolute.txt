@@ -1,0 +1,12 @@
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\bin\Debug\net6.0\CodeFirstModel.deps.json
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\bin\Debug\net6.0\CodeFirstModel.dll
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\bin\Debug\net6.0\ref\CodeFirstModel.dll
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\bin\Debug\net6.0\CodeFirstModel.pdb
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\obj\Debug\net6.0\CodeFirstModel.csproj.AssemblyReference.cache
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\obj\Debug\net6.0\CodeFirstModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\obj\Debug\net6.0\CodeFirstModel.AssemblyInfoInputs.cache
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\obj\Debug\net6.0\CodeFirstModel.AssemblyInfo.cs
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\obj\Debug\net6.0\CodeFirstModel.csproj.CoreCompileInputs.cache
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\obj\Debug\net6.0\CodeFirstModel.dll
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\obj\Debug\net6.0\ref\CodeFirstModel.dll
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstModel\obj\Debug\net6.0\CodeFirstModel.pdb

@@ -1,0 +1,15 @@
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\bin\Debug\net6.0\CodeFirstEntityFramework.deps.json
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\bin\Debug\net6.0\CodeFirstEntityFramework.dll
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\bin\Debug\net6.0\ref\CodeFirstEntityFramework.dll
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\bin\Debug\net6.0\CodeFirstEntityFramework.pdb
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\bin\Debug\net6.0\CodeFirstModel.dll
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\bin\Debug\net6.0\CodeFirstModel.pdb
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\obj\Debug\net6.0\CodeFirstEntityFramework.csproj.AssemblyReference.cache
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\obj\Debug\net6.0\CodeFirstEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\obj\Debug\net6.0\CodeFirstEntityFramework.AssemblyInfoInputs.cache
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\obj\Debug\net6.0\CodeFirstEntityFramework.AssemblyInfo.cs
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\obj\Debug\net6.0\CodeFirstEntityFramework.csproj.CoreCompileInputs.cache
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\obj\Debug\net6.0\CodeFirstEntityFramework.csproj.CopyComplete
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\obj\Debug\net6.0\CodeFirstEntityFramework.dll
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\obj\Debug\net6.0\ref\CodeFirstEntityFramework.dll
+D:\2021Demo\LearnCodeFirst\LearnCodeFirst\CodeFirstEntityFramework\obj\Debug\net6.0\CodeFirstEntityFramework.pdb
