@@ -19,17 +19,27 @@ var context = new LearnDbContext1();
 
 #region 方法一
 
-context.Set<School>().Add(new School() 
-{
-    SName ="中心小学",
-    SAddress ="深圳",
-    Students = new List<Student>()
-    {
-        new Student(){Name="张三",Address="家里" }
-    }
-});
+//context.Set<School>().Add(new School() 
+//{
+//    SName ="中心小学",
+//    SAddress ="深圳",
+//    Students = new List<Student>()
+//    {
+//        new Student(){Name="张三",Address="家里" }
+//    }
+//});
 
-var result = context.SaveChanges();
+//var result = context.SaveChanges();
 
 
 #endregion
+
+var user = context.Set<UserAndRoleMap>().Include("User").Include("Role").FirstOrDefault();
+var aaa = user.User;
+var bbb = user.Role;
+
+//var sdfasf = context.Set<PostTag>().Include("Post").Include("Tag").FirstOrDefault();
+
+//var b1bb = sdfasf.Tag;
+
+//var b11bb = sdfasf.Post;

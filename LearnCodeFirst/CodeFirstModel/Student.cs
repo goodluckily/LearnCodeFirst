@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CodeFirstModel
 {
+
     public class Student
     {
         public int Id { get; set; }
